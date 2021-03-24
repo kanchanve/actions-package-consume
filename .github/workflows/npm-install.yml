@@ -21,7 +21,7 @@ jobs:
         registry-url: https://npm.pkg.github.com/
         scope: '@kanchanve'
 
-    - run: npm ci
+    - run: npm install
       env:
         NODE_AUTH_TOKEN: ${{secrets.READ_PACKAGES_PAT}}
         
