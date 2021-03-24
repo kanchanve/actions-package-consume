@@ -1,0 +1,8 @@
+
+{
+  "name": "actions-package-consume",
+  "version": "0.1.1",
+  "dependencies": {
+    "@kanchanve/actions-workshop": "0.1.0"
+  }
+}
