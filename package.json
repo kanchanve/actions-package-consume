@@ -3,6 +3,6 @@
   "name": "actions-package-consume",
   "version": "0.1.1",
   "dependencies": {
-    "@kanchanve/ci-cd-with-actions": "0.1.0"
+    "@kanchanve/ci-cd-with-actions": "0.2.0"
   }
 }
